@@ -1,4 +1,4 @@
-# reseller
+# hnzearings
 
 A new Flutter project.
 
